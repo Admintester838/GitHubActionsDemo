@@ -1,3 +1,3 @@
 from main import *
 
-assert printHello('Hello world') == 'Hello world'
+assert printHello('Hello World') == 'Hello World'
